@@ -19,3 +19,9 @@ description: World's first decentralized BINGO game
 {% embed url="https://arbiscan.io/" %}
 
 {% embed url="https://bingolotto.xyz" %}
+
+{% embed url="https://github.com/bingolottoxyz" %}
+
+{% embed url="https://t.me/bingolottoxyz" %}
+
+{% embed url="https://twitter.com/bingolottoxyz" %}
