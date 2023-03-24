@@ -5,7 +5,7 @@ BNL Token is the native currency  that powers the Bingolotto platform building o
 * **Ticker:** BNL
 * **Contract Address:**&#x20;
   * Arbitrum Network\
-    `0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82`
+    `TBA`
 
 ## The basics
 
